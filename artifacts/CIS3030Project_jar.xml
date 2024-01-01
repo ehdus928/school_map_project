@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="CIS3030Project:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/CIS3030Project_jar</output-path>
-    <root id="archive" name="CIS3030Project.jar">
-      <element id="module-output" name="CIS3030Project" />
-    </root>
-  </artifact>
-</component>
